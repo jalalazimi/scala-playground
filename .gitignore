@@ -4,6 +4,7 @@
 # http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
 
 .idea
+.DS_Store
 
 dist/*
 target/
